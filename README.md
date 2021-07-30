@@ -9,10 +9,10 @@ I used HTML, CSS and JavaScript to create thhe site , I also used the JQuery lib
 
 ##Installing site locally
 
-*To view the site use this link 
+*To view the site use this link https://ditebogo50.github.io/Capstone-Project/
 *To view the code and the files; clone the site :
 On your terminal enter:
-git clone 
+git clone https://ditebogo50.github.io/Capstone-Project/
 
 
 
